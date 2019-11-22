@@ -5,3 +5,4 @@ git stash example
 
 hello
 
+newbranch2
