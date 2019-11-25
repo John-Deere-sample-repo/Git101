@@ -2,4 +2,3 @@ this is branch 1
 
 we are testing git revert command
 
-git 101 for JDQuote
