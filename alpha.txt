@@ -1,6 +1,7 @@
 alpha file
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 file 1
 
 file 2
@@ -9,3 +10,8 @@ file 3
 =======
 file 1
 >>>>>>> 3890521... cherrypick commit 2
+=======
+file 1
+
+file 2
+>>>>>>> 75beeea... cherrypoint commit 3
